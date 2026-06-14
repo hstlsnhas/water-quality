@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+plotly
+streamlit-option-menu
+matplotlib
+scikit-learn
+joblib
+google-genai
+gdown
