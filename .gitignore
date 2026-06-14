@@ -1,3 +1,4 @@
 .streamlit/
+.dataset/
 __pycache__/
 *.pyc
