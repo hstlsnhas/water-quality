@@ -1,5 +1,5 @@
 .streamlit/
-.dataset/
-."preparation & analyst"/
+dataset/
+preparation & analyst/
 __pycache__/
 *.pyc
